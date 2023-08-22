@@ -1,1 +1,1 @@
-# This repository is for the Block-04 Workshop
+# This repository is for the Block-04 Workshop Git-Workflow
